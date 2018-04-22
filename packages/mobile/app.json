@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "Apollo Universal Starter Kit",
+    "name": "Seansy Universal Starter",
     "icon": "../../app.png",
     "version": "1.0.0",
     "slug": "apollo-universal-starter-kit",
     "sdkVersion": "25.0.0",
     "ios": {
-      "bundleIdentifier": "com.sysgears.apollokit"
+      "bundleIdentifier": "com.seansy.universalkit"
     },
     "android": {
-      "package": "com.sysgears.apollokit"
+      "package": "com.seansy.universalkit"
     }
   }
 }
